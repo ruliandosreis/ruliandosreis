@@ -7,7 +7,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a>
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-experience-manager-aem-icon.png" alt="AEM" width="36" height="36"/>
+    <img src="https://github.com/ruliandosreis/ruliandosreis/blob/8f20498e736d71343d9992641cfff57dd248d200/aem-icon.png" alt="AEM" width="36" height="36"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="36" height="36"/> 
